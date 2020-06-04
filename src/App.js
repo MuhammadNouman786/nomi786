@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.facebook.com/alxn0mihttps://cdn.homeshopping.pk/product_images/q/883/Apple_iPhone_X_(4G__256GB__Silver)__73564.jpg"
+          href="https://cdn.homeshopping.pk/product_images/q/883/Apple_iPhone_X_(4G__256GB__Silver)__73564.jpg"
           target="_blank"
           rel="noopener noreferrer"
         >
